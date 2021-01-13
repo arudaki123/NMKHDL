@@ -1,8 +1,8 @@
 ## STT : 48
 
-## 1712761 Trần Đức Thắng
+1712761 Trần Đức Thắng
 
-## 1712710 Lê Quang Quí
+1712710 Lê Quang Quí
 
 # 1. Giới thiệu đề tài
 Hiện nay việc điện thoại là vật dụng tất yếu của cuộc sống. Nhưng nó rất đa dạng mặt hàng nên khi chúng ta chọn mua hàng trên thế giới di dộng thì liệu chúng ta có an tâm về sản phẩm đó có đúng chất lượng như họ đã quảng cáo không ? Chúng ta không thể đọc hết tất cả bình luận để đánh giá sản phẩm được. Từ ý tưởng đó , mình tạo ra 1 hệ thống sử dụng AI ( trí tuệ nhân tạo ) để đánh giá sản phẩm dựa trên bình luận.Từ đó sẽ đưa ra gợi ý cho người dùng có nên mua sản phẩm đó hay không ? , thống kê các bình luận tiêu cực,....
